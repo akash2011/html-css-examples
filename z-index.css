@@ -1,0 +1,13 @@
+.red, .green, .blue {
+  position: absolute;
+}
+.red {
+  background: red;
+  z-index: 1;
+}
+.green {
+  background: green;
+}
+.blue {
+  background: blue;
+}
